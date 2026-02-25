@@ -143,7 +143,7 @@ export default function App() {
           <div className="space-y-6">
             {[
               { role: "Senior Developer", company: "Apple", period: "Aug 2020 – Present" },
-              { role: "Part-time analyst targeting TMT sector", company: "", period: "Feb 2023 – Present" },
+              { role: "Security analyst covering TMT sectors", company: "Part-time job", period: "Feb 2023 – Present" },
               { role: "Software engineer", company: "SLB", period: "July 2018 – Aug 2020" },
               { role: "Research Developer", company: "Tencent AI lab", period: "May 2017 – Aug 2017" }
             ].map((job, idx) => (
@@ -166,7 +166,7 @@ export default function App() {
             {/* Languages */}
             <div>
               <h3 className="text-[10px] font-mono text-secondary mb-6 border-b border-white/5 pb-2 uppercase tracking-[0.2em] font-bold">
-                analysis coverage
+                analysis coveraged sectors
               </h3>
               <div className="space-y-5">
                 <SkillBar label="Semiconductor" percentage={85} />
