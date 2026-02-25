@@ -176,7 +176,7 @@ export default function App() {
             </div>
 
             {/* Frameworks */}
-            <div className="md:pl-8">
+            <div className="md:pl-16">
               <h3 className="text-xs font-mono text-secondary mb-6 border-b border-white/5 pb-2 uppercase tracking-[0.2em] font-bold">
                 AI tools
               </h3>
